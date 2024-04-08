@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=aws,azure,scala,)](https://skillicons.dev)"/>
+    <img src="https://skillicons.dev/icons?i=aws,azure,scala,py, git,githubactions,)](https://skillicons.dev)"/>
   </a>
 </p>
 <!---
