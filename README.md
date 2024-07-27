@@ -1,7 +1,9 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=scouto&title=Stars,Followers,Commits,Repositories,MultipleLang&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+### About me
+
 - 👋 Hi, I’m Sergio Couto
-- 👀 I’m interested in BigData, Cloud and AI
+- 👀 I'm working as a Data Engineer with Scala, Python , Spark, Airfloe
 - 🌱 I’m currently learning a lot
 ---
 
@@ -12,13 +14,29 @@
 [![image](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/6378311/scouto)
 
 
-<h3 align="center">Languages and Tools I use</h3>
+## Languages and Tools 
+<div>
 
-<p align="center">
-  <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=aws,azure,scala,py, git,githubactions,)](https://skillicons.dev)"/>
-  </a>
-</p>
+### Languages:
+| Python3 | Scala |
+|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original.svg" title="Scala"  alt="Scala" width="55" height="55"/> |  
+
+
+
+### Tools & Frameworks:
+|  Spark | Kafka | Airflow | GHA | Vim
+|----------|----------|----------|----------|----------|
+|   <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original.svg" title="apachespark"  alt="apachespark" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" title="apachekafka"  alt="apachekafka" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original.svg" title="apacheairflow"  alt="apacheairflow" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" title="githubactions"  alt="githubactions" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="vim"  alt="vim" width="55" height="55"/>
+
+
+
+
+### Clouds:
+| Azure | AWS |
+|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="azure"  alt="azure" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="amazonwebservices"  alt="amazonwebservices" width="55" height="55"/>
+
 
 ---
 
