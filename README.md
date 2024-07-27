@@ -1,7 +1,9 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=scouto&title=Stars,Followers,Commits,Repositories,MultipleLang&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 - 👋 Hi, I’m Sergio Couto
 - 👀 I’m interested in BigData, Cloud and AI
 - 🌱 I’m currently learning a lot
-
+---
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
@@ -10,7 +12,7 @@
 [![image](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/6378311/scouto)
 
 
-<h3 align="center">Languages and Tools</h3>
+<h3 align="center">Languages and Tools I use</h3>
 
 <p align="center">
   <a href="https://skillicons.dev" target="_blank">
@@ -18,12 +20,20 @@
   </a>
 </p>
 
+---
 
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=SCouto&show_icons=true&theme=vision-friendly-dark">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SCouto&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 </p>
+
+---
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=Scouto&style=for-the-badge&color=orange" alt=""/>
+</div>
  
+
 
 <!---
 SCouto/SCouto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
