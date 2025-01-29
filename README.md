@@ -14,7 +14,7 @@
     <ul class="article-list">
         <!-- Repeat this block for each article -->
         <li class="article-item">
-            <a href="#article-url" class="article-link">
+            <a href="https://medium.com/adevinta-tech-blog/how-we-moved-from-local-scripts-and-spreadsheets-shared-by-email-to-data-products-edaec9228753" class="article-link">
                 <i class="fas fa-file-alt article-icon"></i>
                 <div class="article-content">
                     <h2 class="article-title">How we moved from local scripts and spreadsheets shared by email to Data Products - Part I</h2>
