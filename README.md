@@ -1,5 +1,3 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=scouto&title=Stars,Followers,Commits,Repositories,MultipleLang&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 ### About me
 
 - 👋 Hi, I’m Sergio Couto
