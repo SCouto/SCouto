@@ -9,9 +9,9 @@
 
 
 
-## Articles
+## Articles i've written or colabareted wri
 
-- <a href="https://medium.com/adevinta-tech-blog/how-we-moved-from-local-scripts-and-spreadsheets-shared-by-email-to-data-products-edaec9228753" title="How we moved from local scripts and spreadsheets shared by email to Data Products - Part I">How we moved from local scripts and spreadsheets shared by email to Data Products - Part I (April 2024) </a> 
+- <a href="https://medium.com/adevinta-tech-blog/how-we-moved-from-local-scripts-and-spreadsheets-shared-by-email-to-data-products-edaec9228753" title="How we moved from local scripts and spreadsheets shared by email to Data Products - Part I">Coautored: How we moved from local scripts and spreadsheets shared by email to Data Products - Part I (April 2024) </a> 
 - <a href="https://medium.com/adevinta-tech-blog/how-we-moved-from-local-scripts-and-spreadsheets-shared-by-email-to-data-products-ade22e9adb2a" title="How we moved from local scripts and spreadsheets shared by email to Data Products - Part II">How we moved from local scripts and spreadsheets shared by email to Data Products - Part II (April 2024) </a>
 - <a href="https://medium.com/adevinta-tech-blog/creating-source-aligned-data-products-in-adevinta-spain-ab96154698c2
 " title="Creating source-aligned data products in Adevinta Spain">Creating source-aligned data products in Adevinta Spain (Nov 2024) </a>
