@@ -19,6 +19,8 @@
 
 ## Conferences
 
+[![December 2023 - Dama - Moving from scripts in local to Data Products](https://img.youtube.com/vi/JOKL5dkVli0/hqdefault.jpg)](https://www.youtube.com/watch?si=5EMElQ2eXaFCeo2M&v=JOKL5dkVli0&feature=youtu.be)
+
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
