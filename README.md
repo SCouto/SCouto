@@ -19,10 +19,23 @@
 
 ## Conferences
 
-[![December 2023 - Dama - Moving from scripts in local to Data Products](https://img.youtube.com/vi/JOKL5dkVli0/hqdefault.jpg)](https://www.youtube.com/watch?si=5EMElQ2eXaFCeo2M&v=JOKL5dkVli0&feature=youtu.be)
 
-[![January 2025 - CodelyTv - Data Products & Self serving data platform](https://img.youtube.com/vi/hd2yh_Tbrno/hqdefault.jpg)](https://www.youtube.com/watch?v=hd2yh_Tbrno)
-
+<table>
+  <tr>
+    <td>
+      <a href="https://www.youtube.com/watch?v=JOKL5dkVli0">
+        <img src="https://img.youtube.com/vi/JOKL5dkVli0/0.jpg" alt="Video 1" width="100%">
+      </a>
+      <p align="center">December 2023 - Dama - Moving from scripts in local to Data Products</p>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=hd2yh_Tbrno">
+        <img src="https://img.youtube.com/vi/hd2yh_Tbrno/0.jpg" alt="Video 2" width="100%">
+      </a>
+      <p align="center">January 2025 - CodelyTv - Data Products & Self serving data platform</p>
+    </td>
+  </tr>
+</table>
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
