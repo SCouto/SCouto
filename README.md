@@ -11,7 +11,7 @@
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sergiocoutocatoira)
 [![image](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/6378311/scouto)
-[![image](https://img.shields.io/badge/My%20Website%20Attempt-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://yourwebsite.com](https://scouto.github.io/index.html))
+[![image](https://img.shields.io/badge/My%20Website%20Attempt-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://scouto.github.io)
 
 
 <!---
