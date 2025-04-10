@@ -1,9 +1,9 @@
 ### About me
 
 - 👋 Hi, I’m Sergio Couto
-- 👀 I'm working as a Data Engineer with Scala, Python , Spark, Airflow and many other technologies
-- I also teach about Data Engineering and Data Science
-- 🌱 I’m currently learning a lot
+- 👀 I'm working as a Data Engineer with Scala, Python, Spark, Airflow and many other technologies
+- 🏫 I teach about Data Engineering and Data Science (and I love it)
+- 🌱 I’m currently learning a lot (and I also love it)
 
 
 <h3 align="center">Connect with me:</h3>
